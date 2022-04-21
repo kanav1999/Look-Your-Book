@@ -1,7 +1,14 @@
 # Look-Your-Book
-The react app is based on google book API to read and search 1 Cr + books based on Google book API
+The react app is based on google book API to read and search books and also advanced effects and responsive design.
+
+# Technologies Used
+
+ReactJS , HTML, CSS , Javascript , Google FIrebase Authentication
+
 
 # Api used 
+
+GOOGLE BOOK API
 https://www.googleapis.com/books/v1/volumes?q=react=free-ebooks&key=AIzaSyB2Rrne2xtGIcLnMkiukrt5JspllnujzLA.
 
 
@@ -18,6 +25,6 @@ https://www.googleapis.com/books/v1/volumes?q=react=free-ebooks&key=AIzaSyB2Rrne
 
 
 
-# Detailed Video 
-"C:\Users\kanav\Desktop\video_20220419_100724.mp4"
+
+
 
