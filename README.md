@@ -1,5 +1,6 @@
 # Look-Your-Book
 The react app is based on google book API to read and search 1 Cr + books based on Google book API
+
 # Api used 
 https://www.googleapis.com/books/v1/volumes?q=react=free-ebooks&key=AIzaSyB2Rrne2xtGIcLnMkiukrt5JspllnujzLA.
 
@@ -14,4 +15,9 @@ https://www.googleapis.com/books/v1/volumes?q=react=free-ebooks&key=AIzaSyB2Rrne
 # Preview Image Design
 
 ![image](https://user-images.githubusercontent.com/99467684/163761622-e5f47c52-f920-4c7e-9225-f62aef680d5a.png)
+
+
+
+# Detailed Video 
+"C:\Users\kanav\Desktop\video_20220419_100724.mp4"
 
